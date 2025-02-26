@@ -1,4 +1,4 @@
-# google main page clone
+# google main page
 구글 메인페이지 클론 코딩
 
 - 순수 HTML과 CSS를 활용하여 Google 메인 페이지를 클론 코딩하였습니다.
